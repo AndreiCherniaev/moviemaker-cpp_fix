@@ -41,7 +41,7 @@ Additionally, the library offers an interface to encode SVG images.
 ## Prerequisites
 
 ```
-sudo apt install g++ cmake librsvg2-dev libx264-dev libgtk-3-dev libavcodec-dev libavfilter-dev libavformat-dev libavutil-dev
+sudo apt install g++ cmake librsvg2-dev libx264-dev libgtk-3-dev libavcodec-dev libavfilter-dev libavformat-dev libavutil-dev libnuma-dev
 ```
 
 ## Building
